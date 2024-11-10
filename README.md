@@ -4,8 +4,6 @@
   <div>
   <img src="https://avatars.githubusercontent.com/u/187204946?v=4" width="100%">
   </div>
-  <div>
-   <button>Buy</button>
-  </div>
 </div>
+<button>Buy</button>
 
