@@ -5,7 +5,7 @@
   <h3>I am new here, Can you follow me on Linkedin ?</h3> 
   <button>linkedin.com/anaspsysexo</button>
 <div>
-  <a href="click for project">here</a>
+  <a href="project">here</a>
 </div>
 </div>
   <div>
