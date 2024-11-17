@@ -7,6 +7,11 @@
 <div>
   <a href="project.html">here</a>
 </div>
+    <h1>Il est où maintenant ?</h1>
+    <ol>
+      <li>Maison</li>
+      <li>Dehors</li>
+    </ol>
 </div>
   <div>
   <img src="https://avatars.githubusercontent.com/u/187204946?v=4" width="100%">
